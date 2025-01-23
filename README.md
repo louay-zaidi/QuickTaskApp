@@ -35,12 +35,7 @@ The app's intuitive user interface enables users to manage tasks effortlessly. B
    - View all tasks alongside public holidays fetched from an API.
 
 ### Screenshots
-**Home Screen:**  
-![Home Screen](path-to-your-screenshot1.png)
-
-**Calendar Screen:**  
-![Calendar Screen](path-to-your-screenshot2.png)
-
+ through this link : https://drive.google.com/drive/folders/1d97lFx2TsjOCfYSOE5KjmKDxXkHMIyQW?usp=sharing
 ---
 
 ## E. Technology
